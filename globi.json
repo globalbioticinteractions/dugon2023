@@ -1,5 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "citation": "Dugon, Michel M., Lawton, Colin, Sturgess, Dawn, and Dunbar, John P.. 2023. \"Predation on a Pygmy Shrew, Sorex Minutus, by the Noble False Widow Spider, Steatoda Nobilis.\" Ecosphere 14( 2): e4422. https://doi.org/10.1002/ecs2.4422",
+  "doi": "10.1002/ecs2.4422",
   "deprecated": false
 }
